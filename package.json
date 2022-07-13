@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "Projeto de Documentação",
+  "main": "index.js",
+
+  
+    "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    },
+  "author": "Thais Cerutti",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
