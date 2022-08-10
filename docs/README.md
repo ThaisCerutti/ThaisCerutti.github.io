@@ -1,10 +1,16 @@
 ---
-title: Blogging with VuePress
-lang: en-US
 home: true
-heroText: Springfield Dim Sum
-heroImage: /th.jpg
+heroImage: /images/perfil.jpeg
+heroText: Hero Title
+tagline: Olá
+actionText: Get Starteded →
+actionLink: /guide/
+features:
+- title: Simplicity First
+  details: Minimal setup with markdown-centered project structure helps you focus on writing.
+- title: Vue-Powered
+  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+- title: Performant
+  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+footer: MIT Licensed | Copyright © 2022-present Thais Cerutti
 ---
-<img :src="$withBase('/images/th.jpg')" alt="foo">
-<h1>Thais Cerutti</h1>
-<br><h3>Minhas competências, anotações e documentações. :D</h3></br>
