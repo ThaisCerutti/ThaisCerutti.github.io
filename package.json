@@ -1,17 +1,24 @@
 {
-  "name": "vuepress-starter",
+  "name": "thaiscerutti.github.io",
   "version": "1.0.0",
-  "description": "Projeto de Documentação",
+  "description": "Meu priojeto de anotacoes",
   "main": "index.js",
-
-  
-    "scripts": {
-      "docs:dev": "vuepress dev docs",
-      "docs:build": "vuepress build docs"
-    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaisCerutti/ThaisCerutti.github.io.git"
+  },
   "author": "Thais Cerutti",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThaisCerutti/ThaisCerutti.github.io/issues"
+  },
+  "homepage": "https://github.com/ThaisCerutti/ThaisCerutti.github.io#readme",
   "devDependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.9.7"
   }
 }

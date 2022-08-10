@@ -1,7 +1,6 @@
 module.exports = {
-    title: 'Hello VuePress',
-    description: 'Just playing around',
-    themeConfig: {
-        logo: "/images/th.jpg"
-    }
-  }
+    lang: 'pt-BR',
+    title: 'Olá eu sou a Thais',
+    description: 'Meu site de documentacoes',
+    
+}
