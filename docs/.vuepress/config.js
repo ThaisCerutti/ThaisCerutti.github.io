@@ -1,6 +1,6 @@
 module.exports = {
     lang: 'pt-BR',
-    title: 'Olá eu sou a Thais',
+    title: 'Thais Cerutti',
     description: 'Meu site de documentacoes',
     
 }
